@@ -1,0 +1,16 @@
+*.ccspjt
+*.cof
+*.err
+*.esym
+*.hex
+*.lst
+*.STA
+*.sym
+*.tre
+*.xsym
+*.rar
+*.txt
+*.swp
+
+/*/__history/
+/*/*/__history/
